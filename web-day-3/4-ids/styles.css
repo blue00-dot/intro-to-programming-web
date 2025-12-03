@@ -1,0 +1,19 @@
+.startsWithA {
+    background-color: yellow;
+}
+
+.startsWithE {
+    background-color: blue;
+}
+
+.startsWithJ {
+    background-color: aqua;
+}
+
+#titleOfPage {
+    color: green;
+}
+
+body {
+    background-color: red;
+}

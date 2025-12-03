@@ -1,0 +1,13 @@
+/*
+tag gtagInsideTag
+tag.class
+id tag
+*/
+
+ul li {
+    background-color: blue;
+}
+
+ol li.madeFromCorn {
+    background-color: yellow;
+}
